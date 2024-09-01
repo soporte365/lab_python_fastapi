@@ -11,4 +11,4 @@ print(f"El valor de mi var1 es: {var1}")
 
 print("Valor del índice 0 de mi lista: {}".format(var1[0]))
 print(f"Valor del índice 0 de mi lista: {var1[0]}")
-print("Valor del índice 2 de mi lista: {}".format(var1[2])) # otra forma
+print("Valor del índice 2 de mi lista: {}".format(var1[2])) # otra forma de formatear
