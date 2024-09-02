@@ -1,6 +1,5 @@
 from django.db.models.expressions import result
 
-
 def saludar(nombre):
     print("Hola", nombre)
 saludar("Carlos")
